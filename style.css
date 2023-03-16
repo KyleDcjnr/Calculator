@@ -1,10 +1,10 @@
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     color: #fff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    overflow: hidden;
 }
 
 main{
@@ -17,14 +17,14 @@ main{
 }
 
 .calculator-interface{
-    width: 17.8%;
+    width: 18%;
     background-color: #011d36;
-    height: 67.5%;
+    height: 68.2%;
     border-radius: 20px;
 }
 .calculator-output{
     background: #011d36 ;
-    height: 38%;
+    height: 38.9%;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
     text-align: end;
@@ -57,7 +57,6 @@ button{
     height: 5rem;
     background:#022a4a ;
     font-size: 1.5rem;
-    cursor: pointer;
 }
 .top-bottom{
     position: relative;
