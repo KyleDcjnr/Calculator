@@ -17,14 +17,14 @@ main{
 }
 
 .calculator-interface{
-    width: 18%;
+    width: 17.8%;
     background-color: #011d36;
-    height: 68.2%;
+    height: 67.5%;
     border-radius: 20px;
 }
 .calculator-output{
     background: #011d36 ;
-    height: 38.9%;
+    height: 38%;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
     text-align: end;
