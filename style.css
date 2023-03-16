@@ -4,6 +4,7 @@
     box-sizing: border-box;
     color: #fff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow: hidden;
 }
 
 main{
@@ -56,6 +57,7 @@ button{
     height: 5rem;
     background:#022a4a ;
     font-size: 1.5rem;
+    cursor: pointer;
 }
 .top-bottom{
     position: relative;
